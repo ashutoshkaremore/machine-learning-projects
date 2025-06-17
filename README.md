@@ -23,6 +23,7 @@ Each project is contained in its own directory and includes:
 |--------|-------------|
 | `Insurance Premium Charges Prediction` | Predicts insurance costs based on demographic and health factors using regression models. |
 | `Online Payments Fraud Detection Using Random Forest Classifier` | Predicts Online Payments Fraud using Decision Tree and Random Forest. |
+| `Spam Emails Classification Using Naive Bayes` | Predicts Spam and Non Spam Emails using Naive Bayes. |
 
 *(More coming soon as I continue learning and experimenting...)*
 
