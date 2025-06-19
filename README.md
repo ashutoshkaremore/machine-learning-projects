@@ -21,6 +21,7 @@ Each project is contained in its own directory and includes:
 
 | Project | Description |
 |--------|-------------|
+| `Kaggle Competition Predicting Optimal Fertilizers using XGBoost` | Predict the best fertilizer for different weather, soil conditions and crops. |
 | `Insurance Premium Charges Prediction` | Predicts insurance costs based on demographic and health factors using regression models. |
 | `Online Payments Fraud Detection Using Random Forest Classifier` | Predicts Online Payments Fraud using Decision Tree and Random Forest. |
 | `Spam Emails Classification Using Naive Bayes` | Predicts Spam and Non Spam Emails using Naive Bayes. |
